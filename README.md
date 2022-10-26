@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# A simple Rock Paper Scissor Game
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## How to run this
+
+1. `yarn install` OR `npm install`
+2. `yarn start` OR `npm start`
 
 ## Available Scripts
 
